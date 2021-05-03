@@ -11,6 +11,7 @@ function wrapAdjective(flair = "*"){
     return `You are ${flair}${para}${flair}!`;
   }
 }
+<<<<<<< HEAD
 const Calculator = {
   add : function(){return  1 + 3 },
   subtract : function(){return  1 - 3 },
@@ -28,3 +29,8 @@ function actionApplyer (start,arr){
     return newNum;
   }
 }
+=======
+const Calculator = {};
+saturdayFun();
+mondayWork();
+>>>>>>> 563a1a5a698b2d87403586b50cadba8d0ffbb126
